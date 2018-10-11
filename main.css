@@ -264,6 +264,19 @@ display: block;
 		   
        }
 
+
+       #header-links{
+
+		
+		position: absolute;
+		right:5rem;
+		background-color:#fff;
+		top:13rem;
+		padding:1rem;
+
+}
+
+
 		.container{
 			width:100%;
          }
@@ -287,7 +300,7 @@ display: block;
 		}
 
 
-	
+
 
 
 
